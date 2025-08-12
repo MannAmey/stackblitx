@@ -1,0 +1,79 @@
+# English translations for RFID System
+# Copyright (C) 2024 School Food System
+# This file is distributed under the same license as the RFID System package.
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: RFID System 1.0\n"
+"Report-Msgid-Bugs-To: admin@schoolfood.com\n"
+"POT-Creation-Date: 2024-01-01 12:00+0000\n"
+"PO-Revision-Date: 2024-01-01 12:00+0000\n"
+"Last-Translator: Admin <admin@schoolfood.com>\n"
+"Language: en\n"
+"Language-Team: English <admin@schoolfood.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+msgid "welcome"
+msgstr "Welcome to School Cafeteria"
+
+msgid "scan_card"
+msgstr "Please scan your student card"
+
+msgid "card_scanned"
+msgstr "Card scanned successfully"
+
+msgid "user_not_found"
+msgstr "User not found"
+
+msgid "access_denied"
+msgstr "Access denied"
+
+msgid "system_error"
+msgstr "System error occurred"
+
+msgid "student_profile"
+msgstr "Student Profile"
+
+msgid "purchase_items"
+msgstr "Purchase Items"
+
+msgid "payment_options"
+msgstr "Payment Options"
+
+msgid "select_language"
+msgstr "Select Language"
+
+msgid "pay_now"
+msgstr "Pay Now"
+
+msgid "pay_later"
+msgstr "Pay Later (Monthly)"
+
+msgid "cash_payment"
+msgstr "Cash Payment"
+
+msgid "card_payment"
+msgstr "Card Payment"
+
+msgid "add_to_monthly"
+msgstr "Add to Monthly Bill"
+
+msgid "add_to_cart"
+msgstr "Add to Cart"
+
+msgid "remove_from_cart"
+msgstr "Remove from Cart"
+
+msgid "cart_total"
+msgstr "Cart Total"
+
+msgid "complete_purchase"
+msgstr "Complete Purchase"
+
+msgid "purchase_completed"
+msgstr "Purchase Completed"
